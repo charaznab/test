@@ -1,4 +1,4 @@
 miaox start learn git
 and make a 2nd version
 and then make a 3rd version
-add a branch 'f1'
+add a branch 'f1' and now at master
